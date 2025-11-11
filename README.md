@@ -36,9 +36,8 @@ OSINT Recon Toolkit
 Enter domain (without http/https): example.com
 Report generated: example.com_report.json
 ```
+**Sample Report:** [View sample_report.json](docs/sample_report.json)
 
-Sample Report:
-📊 View sample_report.json
 
 ## Learning Goals:
 
