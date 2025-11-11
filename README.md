@@ -56,5 +56,5 @@ This project demonstrates:
 
 ## Author
 
-Barkhad Isse
+- Barkhad Isse
 GitHub: github.com/barkhad-isse
